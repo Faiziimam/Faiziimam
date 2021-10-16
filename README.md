@@ -9,27 +9,32 @@
  📱 I make apps using React-Native <br>
  🎓 I'm a Computer Science student (graduating in 2023) <br>
  
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)[![coffee][coffee-shield]][coffee-url]
-[![javascript][javascript-shield]][javascript-url]
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)
+
+<p align="center">
+  <h1 align="center">Mikyll</h1>
+</p>
+
 [![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
 [![debian][debian-shield]][debian-url]
-[![visual-studio][vs-shield]][vs-url]
-[![c][c-shield]][c-url]
-[![css][css-shield]][css-url]
-[![windows][windows-shield]][windows-url]
 [![android][android-shield]][android-url]
-[![latex][latex-shield]][latex-url]
-[![sublime][sublime-shield]][sublime-url]
+[![windows][windows-shield]][windows-url]
+[![java][java-shield]][java-url]
+[![c][c-shield]][c-url]
 [![bash][bash-shield]][bash-url]
+[![javascript][javascript-shield]][javascript-url]
+[![html][html-shield]][html-url]
+[![css][css-shield]][css-url]
+[![latex][latex-shield]][latex-url]
 [![unity][unity-shield]][unity-url]
+[![visual-studio][vs-shield]][vs-url]
+[![sublime][sublime-shield]][sublime-url]
+[![coffee][coffee-shield]][coffee-url]
+
  
  <hr>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&layout=compact)](https://github.com/Faiziimam/github-readme-stats)
-
-![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&layout=compact)](https://github.com/Faiziimam/github-readme-stats)![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
 
 
  <hr> 
