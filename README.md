@@ -4,20 +4,17 @@
 <!--
 **Faiziimam/Faiziimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--  💻 I'm a web developer <br>
- 🎨 I'm a self-taught Programmer  <br>
- 📱 I make apps using React-Native <br>
- 🎓 I'm a Computer Science student (graduating in 2023) <br> -->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Eat+Sleep+repeat+!)](https://git.io/typing-svg)
 
  
-<p align="center">
-	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nwaobidaniel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/0x00CCSec"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+<p align="left">
+	<a href="https://github.com/Faiziimam"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/faiziimam/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
+	<a href="https://www.instagram.com/faiziimam/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/>
  <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
  <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
 </p>
