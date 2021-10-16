@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Faiziimam/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam)](https://github.com/anuraghazra/github-readme-stats)
+[![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
