@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <center>
-💻 I'm a web developer
-🎨 I'm a self-taught UI designer
-📱 I make apps using flutter
-🎓 I'm a Computer Science student (graduating in October 2023
+💻 I'm a web developer <br>
+🎨 I'm a self-taught Programmer  <br>
+📱 I make apps using React-Native <br>
+🎓 I'm a Computer Science student (graduating in 2023) <br>
 </center>
+    
+
   
 
 
