@@ -16,9 +16,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats) <a href="https://github.com/Faiziimam/Covid-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
-</a>   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats)<span><a href="https://github.com/Faiziimam/Covid-Tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" /></a></span>
+ 
+
 <a href="https://github.com/Faiziimam/Covid-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
 </a>
