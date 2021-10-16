@@ -36,7 +36,7 @@
   
 <hr>  
 	
-const 0x00CCSec = {
+<!-- const 0x00CCSec = {
     pronouns: "he" | "him",
     location: ["Ahmedabad, India"],
     contact: ["faizkalwara@gmail.com"],
@@ -53,10 +53,10 @@ const 0x00CCSec = {
             secret: ["I freaking love music", "dogs"],
         }        
     }
-};
+}; -->
 
  
-<hr>  
+
 
 <p>
 <hr>
@@ -65,7 +65,31 @@ const 0x00CCSec = {
 <br /> 
  <img src="https://imgur.com/rilHVxA.png"/> 
  
+```javascript
 
+const 0x00CCSec = {
+    pronouns: "he" | "him",
+    location: ["benin city, ng"],
+    contact: ["dannychukz15@gmail.com"],
+    portfolio: ["https://nwaobidaniel.netlify.app"],
+    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
+                    "embedded systems engineering"],
+    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
+    askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
+                "tech", "cyber-ops", "crypto", "music"],
+    hobbies: {
+        major: {
+            indoor: ["dancing", "cooking","watching animes", "gaming"],
+	    outdoor: ["traveling", "playing soccer"],
+        },
+        funFact: {
+            secret: ["I freaking love music", "dogs"],
+        }        
+    }
+};
+
+```
 
 
 
