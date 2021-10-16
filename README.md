@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Latest Blog Post
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+
 [![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
