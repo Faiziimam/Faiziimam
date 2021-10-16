@@ -68,24 +68,21 @@
 ```javascript
 
 const 0x00CCSec = {
-    pronouns: "he" | "him",
-    location: ["benin city, ng"],
-    contact: ["dannychukz15@gmail.com"],
-    portfolio: ["https://nwaobidaniel.netlify.app"],
-    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
-                    "embedded systems engineering"],
-    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+ pronouns: "he" | "him",
+    location: ["Ahmedabad, India"],
+    contact: ["faizkalwara@gmail.com"],
+    workingOn: ["Improving Myself..."],
     learning: ["front-End", "web dev", "node.js", "devOps with azure"],
-    askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
-                "tech", "cyber-ops", "crypto", "music"],
+    askMeAbout: ["emerging trends", "React Js", "React-native", "Games", 
+                "tech", "Cricket", "crypto", "music"],
     hobbies: {
         major: {
-            indoor: ["dancing", "cooking","watching animes", "gaming"],
-	    outdoor: ["traveling", "playing soccer"],
+            indoor: ["Music","watching animes", "gaming"],
+	    outdoor: ["traveling", "playing soccer", "Cricket"],
         },
         funFact: {
             secret: ["I freaking love music", "dogs"],
-        }        
+        }          
     }
 };
 
