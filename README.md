@@ -9,11 +9,25 @@
  📱 I make apps using React-Native <br>
  🎓 I'm a Computer Science student (graduating in 2023) <br>
  
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)[![coffee][coffee-shield]][coffee-url]
+[![javascript][javascript-shield]][javascript-url]
+[![linux][linux-shield]][linux-url]
+[![java][java-shield]][java-url]
+[![html][html-shield]][html-url]
+[![debian][debian-shield]][debian-url]
+[![visual-studio][vs-shield]][vs-url]
+[![c][c-shield]][c-url]
+[![css][css-shield]][css-url]
+[![windows][windows-shield]][windows-url]
+[![android][android-shield]][android-url]
+[![latex][latex-shield]][latex-url]
+[![sublime][sublime-shield]][sublime-url]
+[![bash][bash-shield]][bash-url]
+[![unity][unity-shield]][unity-url]
  
  <hr>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&layout=compact)](https://github.com/Faiziimam/github-readme-stats)
 
 ![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
 
