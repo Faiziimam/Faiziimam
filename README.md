@@ -8,27 +8,30 @@
  🎨 I'm a self-taught Programmer  <br>
  📱 I make apps using React-Native <br>
  🎓 I'm a Computer Science student (graduating in 2023) <br>
+ 
+ <hr>  
 
-
-
+<a href="https://github.com/Faiziimam/Covid-Tracker">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
+</a>
+<a href="https://github.com/Faiziimam/Covid-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
+</a>
+<a href="https://github.com/Faiziimam/Netflix-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Netflix-Clone" />
+</a>
   
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats)<span><a href="https://github.com/Faiziimam/Covid-Tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" /></a></span>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats)
 
-<a href="https://github.com/Faiziimam/Covid-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
-</a>
+
 ![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
 
 
 
-<a href="https://github.com/Faiziimam/Netflix-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Netflix-Clone" />
-</a>
 
 
 
