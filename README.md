@@ -38,11 +38,6 @@
 </p>
 <p>
 <hr>
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/xys9yfhrl69knjq85issei7e8) <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<br>
-<br> 
-<hr> 
-
 ### 🏆 Github trophies
 
 <p>
