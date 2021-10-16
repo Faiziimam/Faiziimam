@@ -27,10 +27,10 @@ Latest Blog Post
 
 
 <a href="https://github.com/Faiziimam/Covid-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
 </a>
 <a href="https://github.com/Faiziimam/Netflix-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Netflix-Clone" />
 </a>
 
 
