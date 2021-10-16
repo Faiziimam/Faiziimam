@@ -22,9 +22,8 @@
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
- <hr> 
+<br>
+<hr> 
 
 <a href="https://github.com/Faiziimam/Covid-Tracker">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
@@ -39,6 +38,7 @@
  <hr> 
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
