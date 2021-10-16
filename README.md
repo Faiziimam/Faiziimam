@@ -26,4 +26,10 @@ Latest Blog Post
 ![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
 
 
+<a href="https://github.com/Faiziimam/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Faiziimam/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=convoychat" />
+</a>
 
