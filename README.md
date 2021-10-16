@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-                                                                    💻 I'm a web developer <br>
-                                                                    🎨 I'm a self-taught Programmer  <br>
-                                                                    📱 I make apps using React-Native <br>
-                                                                    🎓 I'm a Computer Science student (graduating in 2023) <br>
-</center>
-    
-
+<div style="display: flex;
+justify-content: center;
+align-items: center;">
+    💻 I'm a web developer <br>
+    🎨 I'm a self-taught Programmer  <br>
+    📱 I make apps using React-Native <br>
+    🎓 I'm a Computer Science student (graduating in 2023) <br>
+</div>
   
 
 
