@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Latest Blog Post
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<center>
+💻 I'm a web developer
+🎨 I'm a self-taught UI designer
+📱 I make apps using flutter
+🎓 I'm a Computer Science student (graduating in October 2023
+</center>
+  
 
 
 
