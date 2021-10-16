@@ -1,13 +1,15 @@
 
-### Hi there 👋
+# Hi, I'm Faiz Imam (:coffee::computer::bulb::heart:)
 
 <!--
 **Faiziimam/Faiziimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- 💻 I'm a web developer <br>
+<!--  💻 I'm a web developer <br>
  🎨 I'm a self-taught Programmer  <br>
  📱 I make apps using React-Native <br>
- 🎓 I'm a Computer Science student (graduating in 2023) <br>
+ 🎓 I'm a Computer Science student (graduating in 2023) <br> -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
  
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)
 
