@@ -68,28 +68,7 @@ const 0x00CCSec = {
 <br /> 
  <img src="https://imgur.com/rilHVxA.png"/> 
  
-```javascript
 
-const 0x00CCSec = {
- pronouns: "he" | "him",
-    location: ["Ahmedabad, India"],
-    contact: ["faizkalwara@gmail.com"],
-    workingOn: ["Improving Myself..."],
-    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
-    askMeAbout: ["emerging trends", "React Js", "React-native", "Games", 
-                "tech", "Cricket", "crypto", "music"],
-    hobbies: {
-        major: {
-            indoor: ["Music","watching animes", "gaming"],
-	    outdoor: ["traveling", "playing soccer", "Cricket"],
-        },
-        funFact: {
-            secret: ["I freaking love music", "dogs"],
-        }          
-    }
-};
-
-```
 
 
 
