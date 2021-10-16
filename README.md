@@ -15,27 +15,23 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)[![linux][linux-shield]][linux-url]
 [![java][java-shield]][java-url]
 [![c][c-shield]][c-url]
-[![bash][bash-shield]][bash-url]
 [![javascript][javascript-shield]][javascript-url]
 [![html][html-shield]][html-url]
 [![css][css-shield]][css-url]
  
- <hr>  
-
-![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&layout=compact)](https://github.com/Faiziimam/github-readme-stats&show_icons=true&theme=radical)
-
-
- <hr> 
-
+<hr>  
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/xys9yfhrl69knjq85issei7e8)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
 <hr> 
-
 ## 🔧 Technologies
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
+<hr> 
 
+![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&layout=compact)](https://github.com/Faiziimam/github-readme-stats&show_icons=true&theme=radical)
+
+<hr> 
 <!-- 
 [![Faiziimam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Faiziimam/github-readme-stats) -->
 
