@@ -12,12 +12,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Eat+Sleep+repeat+!)](https://git.io/typing-svg)
 
  
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![c][c-shield]][c-url]
-[![javascript][javascript-shield]][javascript-url]
-[![html][html-shield]][html-url]
-[![css][css-shield]][css-url]
+<p align="center">
+	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nwaobidaniel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/0x00CCSec"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+ <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+ <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
+</p>
  
 <hr>  
 
@@ -37,11 +40,6 @@
 
 </p>
 <p>
-<hr>
-### 🏆 Github trophies
-<p>
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
-</p>
 <hr>
 <br />
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
