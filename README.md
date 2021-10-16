@@ -9,14 +9,12 @@
  📱 I make apps using React-Native <br>
  🎓 I'm a Computer Science student (graduating in 2023) <br> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FaizImam+Computer+Science+Student;Eat+Sleep+repeat+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Eat+Sleep+repeat+!)](https://git.io/typing-svg)
 
  
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiziimam)[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziimam//)
 
-<p align="center">
-  <h1 align="center">Mikyll</h1>
-</p>
+
 
 [![linux][linux-shield]][linux-url]
 [![debian][debian-shield]][debian-url]
@@ -42,7 +40,7 @@
 
  <hr> 
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/xys9yfhrl69knjq85issei7e8)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
 <hr> 
