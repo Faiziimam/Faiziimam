@@ -40,7 +40,7 @@
 <hr>
 ### 🏆 Github trophies
 <p>
-![trophy](https://github-profile-trophy.vercel.app/?username=Faiziimam&margin-w=15theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
 </p>
 <hr>
 <br />
