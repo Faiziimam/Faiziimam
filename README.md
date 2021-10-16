@@ -15,8 +15,8 @@
 	<img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
 	<a href="https://www.instagram.com/faiziimam/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/>
- <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
- <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
+	 <img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/>
+	 <img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/>
 </p>
  
 <hr>  
