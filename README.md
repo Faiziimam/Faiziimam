@@ -14,6 +14,18 @@
  
  <hr>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats) 
+![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
+
+
+ <hr> 
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+ <hr> 
+
 <a href="https://github.com/Faiziimam/Covid-Tracker">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Covid-Tracker" />
 </a><br>
@@ -23,16 +35,6 @@
 <a href="https://github.com/Faiziimam/Netflix-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Netflix-Clone" />
 </a><br>
- <hr> 
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
- <hr> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats) 
-![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
-
 
  <hr> 
 
