@@ -22,15 +22,15 @@ Latest Blog Post
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats)              
-![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziimam&langs_count=8)](https://github.com/Faiziimam/github-readme-stats)              
+![Faiziimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiziimam&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Faiziimam/Covid-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Faiziimam/Netflix-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=convoychat" />
 </a>
 
 
