@@ -33,5 +33,5 @@ Latest Blog Post
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faiziimam&repo=Netflix-Clone" />
 </a>
 
-[![Faiziimam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faiziimam)](https://github.com/Faiziimam/github-readme-stats)
+
 
