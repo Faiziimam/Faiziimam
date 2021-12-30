@@ -2,7 +2,7 @@
 # Hi, I'm Faiz Imam (:coffee::computer::bulb::heart:)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Eat+Sleep+repeat+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student...;Eat+Sleep+repeat+!)](https://git.io/typing-svg)
 
  
 <p align="left">
