@@ -278,7 +278,7 @@ console.log(faizFacts[Math.floor(Math.random() * faizFacts.length)]);
 
 </div>
 
-## 🌈 Achievement Unlocked!
+## 🏆 Achievement Unlocked!
 
 <div align="center">
 
