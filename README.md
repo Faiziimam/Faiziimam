@@ -28,7 +28,7 @@ Also in the mix: **HTML · CSS · Vue**
 
 | Building depth | Exploring next | Beyond the screen |
 | :--- | :--- | :--- |
-| React & thoughtful interfaces | Azure, DevOps & music production | Cricket, gaming & anime |
+| React & thoughtful interfaces | Azure, Node & music | Cricket, gaming & anime |
 
 ### 03 / the human behind the commits
 
