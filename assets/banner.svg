@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Faiz Imam — Code with character.</title>
+<desc id="desc">Midnight black, ivory typography, lime accents, and an orbital illustration. Developer, Ahmedabad, India.</desc>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#252b27" stroke-width=".7"/></pattern>
+<radialGradient id="glow"><stop stop-color="#b8ff65" stop-opacity=".12"/><stop offset="1" stop-color="#b8ff65" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade"><stop stop-color="#101410"/><stop offset="1" stop-color="#101410" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="420" rx="18" fill="#101410"/>
+<rect x="1" y="1" width="1198" height="418" rx="17" fill="url(#grid)" stroke="#30392e"/>
+<rect x="2" y="2" width="820" height="416" rx="17" fill="url(#fade)"/>
+<circle cx="978" cy="218" r="240" fill="url(#glow)"/>
+<g font-family="Courier New,monospace" font-size="12" letter-spacing="2">
+<circle cx="53" cy="43" r="4" fill="#b8ff65"/>
+<text x="68" y="47" fill="#b8ff65">FAIZ IMAM / DEVELOPER</text>
+<text x="1148" y="47" fill="#98a391" text-anchor="end">23.0225° N · 72.5714° E</text>
+</g>
+<path d="M48 68H1152" stroke="#30392e"/>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="90" letter-spacing="-5" fill="#f0f2e8">
+<text x="44" y="179">CODE WITH</text>
+<text x="44" y="269">CHARACTER<tspan fill="#b8ff65">.</tspan></text>
+</g>
+<text x="50" y="315" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#a9b3a3">Interfaces with intention. A soundtrack for every session.</text>
+<g transform="translate(985 215)" fill="none">
+<circle r="105" stroke="#556746"/><circle r="77" stroke="#35472a" stroke-dasharray="3 8"/>
+<ellipse rx="146" ry="43" transform="rotate(-35)" stroke="#b8ff65" stroke-width="1.5"/>
+<ellipse rx="146" ry="43" transform="rotate(35)" stroke="#698a4d"/>
+<path d="M-124 0H124M0-124V124" stroke="#34432c"/>
+<circle r="35" fill="#b8ff65" stroke="#cfff98"/>
+<path d="m-9-10-11 10 11 10M9-10 20 0 9 10M4-14-4 14" stroke="#182011" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="119" cy="-71" r="6" fill="#b8ff65"/><circle cx="-96" cy="-65" r="3" fill="#f0f2e8"/>
+</g>
+<path d="M48 351H1152" stroke="#30392e"/>
+<g font-family="Courier New,monospace" font-size="12" letter-spacing="1.5">
+<text x="50" y="386" fill="#b8ff65">BUILD / LISTEN / PLAY / REPEAT</text>
+<text x="1150" y="386" text-anchor="end" fill="#98a391">AHMEDABAD, INDIA ↗</text>
+</g></svg>
