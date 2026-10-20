@@ -1,50 +1,54 @@
-![Faiz Imam — Code with character.](assets/banner.svg)
+<a href="https://faizimam.in">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Syed Faiz Imam (Faiz Imam), Senior Software Developer in Pune, India" src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
 <div align="center">
 
-[GITHUB](https://github.com/Faiziimam) &nbsp; ↗ &nbsp; [LINKEDIN](https://www.linkedin.com/in/faiziimam/) &nbsp; ↗ &nbsp; [SAY HELLO](mailto:faizkalwara@gmail.com)
-
-**A developer with a musician's ear and a gamer's curiosity.**
-
-I build for the web. I care about the details. There's usually a playlist involved.
+**[faizimam.in](https://faizimam.in)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/faiziimam/) &nbsp;·&nbsp; [Medium](https://medium.com/@faizkalwara) &nbsp;·&nbsp; [Say hello](https://faizimam.in/#contact)
 
 </div>
 
-<br>
+# Hi, I'm Syed Faiz Imam
 
-### 01 / the toolkit
+Most people call me **Faiz Imam**. I'm a Senior Software Developer in Pune, India, and I build backends that talk to millions of people: voice AI, event-driven systems on Kafka, LLM pipelines, and the React Native apps that sit on top.
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-151a14?style=for-the-badge&amp;logo=javascript&amp;logoColor=b8ff65" />
-  <img alt="React" src="https://img.shields.io/badge/React-151a14?style=for-the-badge&amp;logo=react&amp;logoColor=b8ff65" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-151a14?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=b8ff65" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-151a14?style=for-the-badge&amp;logo=python&amp;logoColor=b8ff65" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-151a14?style=for-the-badge&amp;logo=git&amp;logoColor=b8ff65" />
-</p>
+```http
+GET /faiz HTTP/2
+host: faizimam.in
 
-Also in the mix: **HTML · CSS · Vue**
-
-### 02 / current rotation
-
-| Building depth | Exploring next | Beyond the screen |
-| :--- | :--- | :--- |
-| React & thoughtful interfaces | Azure, Node & music | Cricket, gaming & anime |
-
-### 03 / the human behind the commits
-
-```js
-const faiz = {
-  location: "Ahmedabad, India",
-  fuel: ["curiosity", "coffee", "music"],
-  approach: "make it work, then make it feel right",
-  sideQuest: "just one more anime episode"
-};
+HTTP/2 200 OK
+x-name:      Syed Faiz Imam (Faiz Imam)
+x-role:      Senior Software Developer
+x-location:  Pune, India
+x-stack:     Node.js, TypeScript, Kafka, LLMs, React Native
+x-off-call:  books, cricket, guitar, PS5
 ```
 
-<br>
+### `GET /systems`
+
+| System | What I built |
+| :--- | :--- |
+| **Voicebot platform** | The backend of an automated healthcare calling system. Call jobs moved from a database table to Kafka, so workers scale out and retries never block the queue. |
+| **Vision LLM migration** | Replaced a hosted model with a fine-tuned open vision-language model for the same job, checked against the old answers before any traffic moved. |
+| **Vehicle damage detection** | Module owner of a system that finds and grades car damage from photos, using a vision LLM and a custom model together. |
+| **Sales portal** | One tool for relationship managers: nearby doctors, an AI-written pitch, meetings, lab bookings and tickets. |
+| **Patient app and wellness kiosk** | React Native: appointment booking and patient journeys, plus a tablet kiosk that reads a Bluetooth body-composition scale. |
+
+**[Open the systems and watch them run →](https://faizimam.in/#systems)**
+
+### `GET /stack`
+
+![Node.js](https://img.shields.io/badge/Node.js-0E0E0C?style=flat-square&logo=nodedotjs&logoColor=FF4D00) ![Express](https://img.shields.io/badge/Express-0E0E0C?style=flat-square&logo=express&logoColor=FF4D00) ![TypeScript](https://img.shields.io/badge/TypeScript-0E0E0C?style=flat-square&logo=typescript&logoColor=FF4D00) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0E0E0C?style=flat-square&logo=apachekafka&logoColor=FF4D00) ![SQL](https://img.shields.io/badge/SQL_and_NoSQL-0E0E0C?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs_and_fine--tuning-0E0E0C?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-0E0E0C?style=flat-square&logo=react&logoColor=FF4D00) ![Next.js](https://img.shields.io/badge/Next.js-0E0E0C?style=flat-square&logo=nextdotjs&logoColor=FF4D00) ![Azure](https://img.shields.io/badge/Azure-0E0E0C?style=flat-square) ![Git](https://img.shields.io/badge/Git-0E0E0C?style=flat-square&logo=git&logoColor=FF4D00)
+
+### `GET /off-call`
+
+Off the clock I read (history, philosophy, a lot of fiction), play cricket, pick at a guitar, and lose hours on the PS5. **[The off-call side of me →](https://faizimam.in/life)**
 
 <div align="center">
 
-<sub>LESS NOISE. MORE CHARACTER.</sub>
+<sub>end of response · <a href="https://faizimam.in">faizimam.in</a></sub>
 
 </div>
