@@ -1,54 +1,45 @@
 <a href="https://faizimam.in">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Syed Faiz Imam (Faiz Imam), Senior Software Developer in Pune, India" src="assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img alt="Syed Faiz Imam (Faiz Imam), Senior Software Developer at Bajaj Finserv Health, Pune: 50M+ voicebot calls, 74% lower LLM cost, 195 React Native PRs" src="assets/banner-light.png" width="100%">
   </picture>
 </a>
 
 <div align="center">
 
-**[faizimam.in](https://faizimam.in)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/faiziimam/) &nbsp;·&nbsp; [Medium](https://medium.com/@faizkalwara) &nbsp;·&nbsp; [Say hello](https://faizimam.in/#contact)
+**[faizimam.in](https://faizimam.in)** &nbsp;·&nbsp; [Résumé](https://faizimam.in/resume) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/faiziimam/) &nbsp;·&nbsp; [Medium](https://medium.com/@faizkalwara) &nbsp;·&nbsp; [Say hello](https://faizimam.in/#contact)
 
 </div>
 
-# Hi, I'm Syed Faiz Imam
+## Hi, I'm Faiz Imam
 
-Most people call me **Faiz Imam**. I'm a Senior Software Developer in Pune, India, and I build backends that talk to millions of people: voice AI, event-driven systems on Kafka, LLM pipelines, and the React Native apps that sit on top.
+Syed Faiz Imam, Senior Software Developer at **Bajaj Finserv Health** in Pune. I'm from Muzaffarpur, Bihar, and I build the backends millions of people talk to, cut what they cost to run, and ship the React Native apps on top.
 
-```http
-GET /faiz HTTP/2
-host: faizimam.in
+> **Open to** React Native, backend and frontend roles · Pune, remote or relocating · I reply within a day
 
-HTTP/2 200 OK
-x-name:      Syed Faiz Imam (Faiz Imam)
-x-role:      Senior Software Developer
-x-location:  Pune, India
-x-stack:     Node.js, TypeScript, Kafka, LLMs, React Native
-x-off-call:  books, cricket, guitar, PS5
-```
+### Case files
 
-### `GET /systems`
+| | System | In numbers |
+| :-- | :--- | :--- |
+| 01 | **[Voicebot platform](https://faizimam.in/work/voice)**: the backend of automated healthcare calls, moved from a polled database table to Kafka | 50M+ calls · −40% latency at 2× traffic |
+| 02 | **[GPT-4o out, a fine-tuned model in](https://faizimam.in/work/llm)**: Qwen2.5-VL 32B trained on production queries | ₹0.30 → ₹0.078 a query · −74% · 95% accuracy |
+| 03 | **[DRx, the clinic app](https://faizimam.in/work/drx)**: React Native for doctors and receptionists: Add Appointment, bulk WhatsApp, My Chats | 195 merged PRs · 100k+ appointments a month |
+| 04 | **[Sales portal](https://faizimam.in/work/rm)**: doctor discovery, AI pitches, meetings and lab bookings on one backend | +25% sales efficiency |
+| 05 | **[Vehicle damage detection](https://faizimam.in/work/damage)**: a vision LLM plus a custom model for motor claims | module owner · in progress |
+| 06 | **[Bluetooth wellness kiosk](https://faizimam.in/work/kiosk)**: React Native and a BLE body-composition scale | 22 readings · 600+ entries |
 
-| System | What I built |
-| :--- | :--- |
-| **Voicebot platform** | The backend of an automated healthcare calling system. Call jobs moved from a database table to Kafka, so workers scale out and retries never block the queue. |
-| **Vision LLM migration** | Replaced a hosted model with a fine-tuned open vision-language model for the same job, checked against the old answers before any traffic moved. |
-| **Vehicle damage detection** | Module owner of a system that finds and grades car damage from photos, using a vision LLM and a custom model together. |
-| **Sales portal** | One tool for relationship managers: nearby doctors, an AI-written pitch, meetings, lab bookings and tickets. |
-| **Patient app and wellness kiosk** | React Native: appointment booking and patient journeys, plus a tablet kiosk that reads a Bluetooth body-composition scale. |
+**[Open the case files and watch them run →](https://faizimam.in/#systems)**
 
-**[Open the systems and watch them run →](https://faizimam.in/#systems)**
+### Stack
 
-### `GET /stack`
+![Node.js](https://img.shields.io/badge/Node.js-2C4BA0?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2C4BA0?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-2C4BA0?style=flat-square&logo=express&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-2C4BA0?style=flat-square&logo=apachekafka&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_and_NoSQL-2C4BA0?style=flat-square) ![LLMs](https://img.shields.io/badge/LLM_fine--tuning-2C4BA0?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-2C4BA0?style=flat-square&logo=react&logoColor=white) ![React](https://img.shields.io/badge/React-2C4BA0?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-2C4BA0?style=flat-square&logo=nextdotjs&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2C4BA0?style=flat-square)
 
-![Node.js](https://img.shields.io/badge/Node.js-0E0E0C?style=flat-square&logo=nodedotjs&logoColor=FF4D00) ![Express](https://img.shields.io/badge/Express-0E0E0C?style=flat-square&logo=express&logoColor=FF4D00) ![TypeScript](https://img.shields.io/badge/TypeScript-0E0E0C?style=flat-square&logo=typescript&logoColor=FF4D00) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0E0E0C?style=flat-square&logo=apachekafka&logoColor=FF4D00) ![SQL](https://img.shields.io/badge/SQL_and_NoSQL-0E0E0C?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs_and_fine--tuning-0E0E0C?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-0E0E0C?style=flat-square&logo=react&logoColor=FF4D00) ![Next.js](https://img.shields.io/badge/Next.js-0E0E0C?style=flat-square&logo=nextdotjs&logoColor=FF4D00) ![Azure](https://img.shields.io/badge/Azure-0E0E0C?style=flat-square) ![Git](https://img.shields.io/badge/Git-0E0E0C?style=flat-square&logo=git&logoColor=FF4D00)
+### Off-call
 
-### `GET /off-call`
-
-Off the clock I read (history, philosophy, a lot of fiction), play cricket, pick at a guitar, and lose hours on the PS5. **[The off-call side of me →](https://faizimam.in/life)**
+Cricket (a bowling all-rounder, right-arm off-spin), Netflix, and books: *The Count of Monte Cristo* is the favourite. Coding lofi on repeat, a guitar on the balcony, and Ladakh by bike as the best trip so far. **[The longer story →](https://faizimam.in/about)**
 
 <div align="center">
 
-<sub>end of response · <a href="https://faizimam.in">faizimam.in</a></sub>
+<sub>Sharp Shark Award ×2 · Limelight · Stellar Squad &nbsp;·&nbsp; B.Tech CSE, SRM Institute of Science and Technology &nbsp;·&nbsp; <a href="https://faizimam.in">faizimam.in</a></sub>
 
 </div>
