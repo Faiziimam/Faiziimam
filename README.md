@@ -1,7 +1,7 @@
 <a href="https://faizimam.in">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img alt="Syed Faiz Imam (Faiz Imam), Senior Software Developer at Bajaj Finserv Health, Pune: 50M+ voicebot calls, 74% lower LLM cost, 195 React Native PRs" src="assets/banner-light.png" width="100%">
+    <img alt="Syed Faiz Imam (Faiz Imam), Senior Software Developer at Bajaj Finserv Health, Pune: 50M+ voicebot calls, 74% lower LLM cost, 100k+ appointments a month" src="assets/banner-light.png" width="100%">
   </picture>
 </a>
 
@@ -23,7 +23,7 @@ Syed Faiz Imam, Senior Software Developer at **Bajaj Finserv Health** in Pune. I
 | :-- | :--- | :--- |
 | 01 | **[Voicebot platform](https://faizimam.in/work/voice)**: the backend of automated healthcare calls, moved from a polled database table to Kafka | 50M+ calls · −40% latency at 2× traffic |
 | 02 | **[GPT-4o out, a fine-tuned model in](https://faizimam.in/work/llm)**: Qwen2.5-VL 32B trained on production queries | ₹0.30 → ₹0.078 a query · −74% · 95% accuracy |
-| 03 | **[DRx, the clinic app](https://faizimam.in/work/drx)**: React Native for doctors and receptionists: Add Appointment, bulk WhatsApp, My Chats | 195 merged PRs · 100k+ appointments a month |
+| 03 | **[DRx, the clinic app](https://faizimam.in/work/drx)**: React Native for doctors and receptionists: Add Appointment, bulk WhatsApp, My Chats | 100k+ appointments a month · 60k patient records |
 | 04 | **[Sales portal](https://faizimam.in/work/rm)**: doctor discovery, AI pitches, meetings and lab bookings on one backend | +25% sales efficiency |
 | 05 | **[Vehicle damage detection](https://faizimam.in/work/damage)**: a vision LLM plus a custom model for motor claims | module owner · in progress |
 | 06 | **[Bluetooth wellness kiosk](https://faizimam.in/work/kiosk)**: React Native and a BLE body-composition scale | 22 readings · 600+ entries |
