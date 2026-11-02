@@ -1,1 +1,2 @@
 <a href="https://faizimam.in"><img src="assets/profile.png" width="100%" alt="Syed Faiz Imam (Faiz Imam), Senior Software Developer at Bajaj Finserv Health, Pune. Open to React Native, backend and frontend roles. 50M+ voicebot calls, 74% lower LLM cost, 100k+ appointments a month. Systems: voicebot platform on Kafka, fine-tuned Qwen2.5-VL replacing GPT-4o, DRx clinic app in React Native, sales portal, vehicle damage detection, Bluetooth wellness kiosk. Visit faizimam.in"></a>
+<a>Faiz Imam</a>
